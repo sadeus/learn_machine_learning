@@ -58,3 +58,6 @@ target/
 
 #IPython notebook checkpoints
 *-checkpoint.ipynb
+
+#SQLite files (big files)
+*.sqlite
